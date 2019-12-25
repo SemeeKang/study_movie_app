@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SemeeKang/study_movie_app/static/css/main.69308485.chunk.css",
+    "main.js": "/SemeeKang/study_movie_app/static/js/main.117283c7.chunk.js",
+    "main.js.map": "/SemeeKang/study_movie_app/static/js/main.117283c7.chunk.js.map",
+    "runtime-main.js": "/SemeeKang/study_movie_app/static/js/runtime-main.69d10f08.js",
+    "runtime-main.js.map": "/SemeeKang/study_movie_app/static/js/runtime-main.69d10f08.js.map",
+    "static/js/2.f0a8900a.chunk.js": "/SemeeKang/study_movie_app/static/js/2.f0a8900a.chunk.js",
+    "static/js/2.f0a8900a.chunk.js.map": "/SemeeKang/study_movie_app/static/js/2.f0a8900a.chunk.js.map",
+    "index.html": "/SemeeKang/study_movie_app/index.html",
+    "precache-manifest.85847ef6b329fc245bd49aff412c8b94.js": "/SemeeKang/study_movie_app/precache-manifest.85847ef6b329fc245bd49aff412c8b94.js",
+    "service-worker.js": "/SemeeKang/study_movie_app/service-worker.js",
+    "static/css/main.69308485.chunk.css.map": "/SemeeKang/study_movie_app/static/css/main.69308485.chunk.css.map",
+    "static/js/2.f0a8900a.chunk.js.LICENSE": "/SemeeKang/study_movie_app/static/js/2.f0a8900a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69d10f08.js",
+    "static/js/2.f0a8900a.chunk.js",
+    "static/css/main.69308485.chunk.css",
+    "static/js/main.117283c7.chunk.js"
+  ]
+}
