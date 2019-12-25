@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/SemeeKang/study_movie_app/static/css/main.69308485.chunk.css",
-    "main.js": "/SemeeKang/study_movie_app/static/js/main.117283c7.chunk.js",
-    "main.js.map": "/SemeeKang/study_movie_app/static/js/main.117283c7.chunk.js.map",
-    "runtime-main.js": "/SemeeKang/study_movie_app/static/js/runtime-main.69d10f08.js",
-    "runtime-main.js.map": "/SemeeKang/study_movie_app/static/js/runtime-main.69d10f08.js.map",
-    "static/js/2.f0a8900a.chunk.js": "/SemeeKang/study_movie_app/static/js/2.f0a8900a.chunk.js",
-    "static/js/2.f0a8900a.chunk.js.map": "/SemeeKang/study_movie_app/static/js/2.f0a8900a.chunk.js.map",
-    "index.html": "/SemeeKang/study_movie_app/index.html",
-    "precache-manifest.85847ef6b329fc245bd49aff412c8b94.js": "/SemeeKang/study_movie_app/precache-manifest.85847ef6b329fc245bd49aff412c8b94.js",
-    "service-worker.js": "/SemeeKang/study_movie_app/service-worker.js",
-    "static/css/main.69308485.chunk.css.map": "/SemeeKang/study_movie_app/static/css/main.69308485.chunk.css.map",
-    "static/js/2.f0a8900a.chunk.js.LICENSE": "/SemeeKang/study_movie_app/static/js/2.f0a8900a.chunk.js.LICENSE"
+    "main.css": "/study_movie_app/static/css/main.69308485.chunk.css",
+    "main.js": "/study_movie_app/static/js/main.117283c7.chunk.js",
+    "main.js.map": "/study_movie_app/static/js/main.117283c7.chunk.js.map",
+    "runtime-main.js": "/study_movie_app/static/js/runtime-main.43c97d31.js",
+    "runtime-main.js.map": "/study_movie_app/static/js/runtime-main.43c97d31.js.map",
+    "static/js/2.f0a8900a.chunk.js": "/study_movie_app/static/js/2.f0a8900a.chunk.js",
+    "static/js/2.f0a8900a.chunk.js.map": "/study_movie_app/static/js/2.f0a8900a.chunk.js.map",
+    "index.html": "/study_movie_app/index.html",
+    "precache-manifest.b8d58a059965a565a727e8cc8f0ea4b1.js": "/study_movie_app/precache-manifest.b8d58a059965a565a727e8cc8f0ea4b1.js",
+    "service-worker.js": "/study_movie_app/service-worker.js",
+    "static/css/main.69308485.chunk.css.map": "/study_movie_app/static/css/main.69308485.chunk.css.map",
+    "static/js/2.f0a8900a.chunk.js.LICENSE": "/study_movie_app/static/js/2.f0a8900a.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.69d10f08.js",
+    "static/js/runtime-main.43c97d31.js",
     "static/js/2.f0a8900a.chunk.js",
     "static/css/main.69308485.chunk.css",
     "static/js/main.117283c7.chunk.js"
